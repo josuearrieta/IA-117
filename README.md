@@ -38,4 +38,20 @@
 1. Ejercicios:
   *  [NPuzzle](https://www.hackerrank.com/challenges/n-puzzle)
      * ejercicios/e6npuzzle
-1. Proximo Lunes 3, 2017 quiz sobre la lectura  
+1. Proximo Lunes 3, 2017 quiz sobre la lectura
+
+## Semana 9
+1. [Intro Redes Neuronales](https://docs.google.com/presentation/d/1iEZ-NS57ZJApwJPFVUi8ty_F9JhMrB5guWlsAP30nmY/edit?usp=sharing)
+1. Libro de referencia: Make Your Own Neural Network
+1. El proyecto es para entregar el proximo Lunes 24
+
+## Semana 10
+1. La entrega de la tarea se pasa para el Viernes 28 de Abril, a las 6pm el commit.
+1. Clases del dia Lunes 24 de Abril quedan suspendidas, tomenlo en cuenta.
+
+## Semana 11
+1. [Neural Nets](https://docs.google.com/presentation/d/1f_nJPtXwz2RivA4M44eMTkXxJS1k_negE_-3HLJ_zrg/edit?usp=sharing)
+1. Libro de referencia: Make Your Own Neural Network
+
+
+

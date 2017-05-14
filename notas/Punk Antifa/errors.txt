@@ -1,0 +1,8 @@
+Error
+    File: /ejercicios/e5-npuzzle/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+
+Error
+    File: /tareas/t1-fsm/js-fsm/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+
